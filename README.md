@@ -1,6 +1,6 @@
 ### Hi there 👋
 About Me
-🤔   Fullstack Developer working remotely in Bangladesh.
+🤔   Fullstack Developer working remotely in Bangladesh. <br>
 💼   Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS), Backend (Python, Django, DRF) and Data Structures Algorithms).
 🌱   Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
 ⚡️   Fun fact: I like playing chess.
