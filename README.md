@@ -6,7 +6,7 @@ About Me <br>
 ⚡️   Fun fact: I like playing chess. <br>
 📫   You can reach me : farhad_702@hotmail.com <br>
 
-<u>Underline</u>
+
 
 🛠  Languages and Tools <br>
 Python JavaScript <br>
